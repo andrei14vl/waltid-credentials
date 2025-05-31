@@ -23,6 +23,7 @@
         "type": "Profile",
         "url": "https://images.squarespace-cdn.com/content/v1/609c0ddf94bcc0278a7cbdb4/1660296169313-K159K9WX8J8PPJE005HV/Walt+Bot_Logo.png?format=100w"
     },
+    "requiredVerifierCredentials": ["DesignatedVerifier"],
     "validFrom": "2025-06-01T00:00:00Z",
     "issuanceDate": "2025-06-01T00:00:00Z"
 }
@@ -50,6 +51,7 @@
     "credentialSubject": {
         "id": "<subjectDid>"
     },
-    "issuanceDate": "<timestamp>"
+    "issuanceDate": "<timestamp>",
+    "validFrom": "<timestamp>"
 }
 ```
