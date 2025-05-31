@@ -65,6 +65,7 @@
     "credentialSubject": {
         "id": "<subjectDid>"
     },
-    "issuanceDate": "<timestamp>"
+    "issuanceDate": "<timestamp>",
+    "expiryDate": "<timestamp>"
 }
 ```
